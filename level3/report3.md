@@ -48,7 +48,7 @@ $s = K\times\frac{i-p_{min}}{p_{max}-p_{min}}$
 
 可以看到效果如下，其中左边为正常的灰度转换，右边为归一化后的灰度转换：
 
-![](C:\Users\蓝\Desktop\作业文件\Python交叉学科\Level3\img.png)
+![](img/img.png)
 
 ### 2.3 计算基本底色亮度
 
@@ -183,21 +183,21 @@ python level3.py
 
 采用这个细胞图像进行测试：
 
-<img src="C:\Users\蓝\Desktop\作业文件\Python交叉学科\Level3\cell_image.png" style="zoom:50%;" />
+<img src="img/cell_image.png" style="zoom:50%;" />
 
 得到转换效果为
 
-![](C:\Users\蓝\Desktop\作业文件\Python交叉学科\Level3\img.png)
+![](img/img.png)
 
 得到最后处理出来的图片为**（可以通过这个图像来确认前面选择的亮度比较数值是否合理，以此改变数值）**：
 
-<img src="C:\Users\蓝\Desktop\作业文件\Python交叉学科\Level3\gray.jpg" style="zoom:50%;" />
+<img src="img/gray.jpg" style="zoom:50%;" />
 
 最后程序计数的结果为：
 
-![](C:\Users\蓝\Desktop\作业文件\Python交叉学科\Level3\result.png)
+![](img/result.png)
 
 由我手数的细胞数大概为 177 个，误差为 $\frac{177-157}{157} = 12.7\%$，原因在于多个细胞重合在一起，计算机会将其视为一个细胞进行计数，难以分辨计算，因此会导致细胞计数偏小，而这个技术偏小从生物学角度也是合理的，可以通过机器学习的方法选择合适的亮度比较数值，来降低这个误差。
 
-![](C:\Users\蓝\Desktop\作业文件\Python交叉学科\Level3\177.png)
+![](img/177.png)
 

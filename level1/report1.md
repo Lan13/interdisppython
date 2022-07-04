@@ -66,8 +66,8 @@ python level1.py
 
 当输入 $C_6H_6$， $C_2H_4O_2$，$C_2H_6ON$ 时：
 
-![](C:\Users\蓝\Desktop\作业文件\Python交叉学科\Level1\correct.png)
+![](img/correct.png)
 
 当输入错误分子式或退出信息时：
 
-![](C:\Users\蓝\Desktop\作业文件\Python交叉学科\Level1\fail.png)
+![](img/fail.png)

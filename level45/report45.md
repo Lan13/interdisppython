@@ -20,7 +20,7 @@ cd free-python-games/
 pip3 install -r requirements.txt
 ```
 
-<img src="C:\Users\蓝\Desktop\作业文件\Python交叉学科\Level4_5\requirements1.png" style="zoom:50%;" />
+<img src="img/requirements1.png" style="zoom:50%;" />
 
 接着运行即可试玩小游戏：
 
@@ -32,13 +32,14 @@ python3 -m freegames.tictactoe
 ```
 
 <center class="half">
-    <img src="C:\Users\蓝\Desktop\作业文件\Python交叉学科\Level4_5\snake.png" style="zoom:30%;"/>
-	<img src="C:\Users\蓝\Desktop\作业文件\Python交叉学科\Level4_5\pacman.png" style="zoom:30%;"/>
+    <img src="img/snake.png" style="zoom:30%;"/>
+	<img src="img/pacman.png" style="zoom:30%;"/>
 </center>
 <center class="half">
-    <img src="C:\Users\蓝\Desktop\作业文件\Python交叉学科\Level4_5\flappy.png" style="zoom:30%;"/>
-	<img src="C:\Users\蓝\Desktop\作业文件\Python交叉学科\Level4_5\tictactoe.png" style="zoom:30%;"/>
+    <img src="img/flappy.png" style="zoom:30%;"/>
+	<img src="img/tictactoe.png" style="zoom:30%;"/>
 </center>
+
 
 ## 3. Level 5 实验思路
 
@@ -281,12 +282,13 @@ python 2048.py
 游戏进行以及游戏结束：
 
 <center class="half">
-    <img src="C:\Users\蓝\Desktop\作业文件\Python交叉学科\Level4_5\mysnake.png" style="zoom:50%;"/>
-	<img src="C:\Users\蓝\Desktop\作业文件\Python交叉学科\Level4_5\snakeover.png" style="zoom:50%;"/>
+    <img src="img/mysnake.png" style="zoom:50%;"/>
+	<img src="img/snakeover.png" style="zoom:50%;"/>
 </center>
+
 双人游戏时，左边用户使用 `[W, S, A, D]` 键控制贪吃蛇的移动，右边用户使用 `[K_UP, K_DOWN, K_LEFT, K_RIGHT]` 键控制贪吃蛇的移动（具体动画在附件视频中可看）：
 
-<img src="C:\Users\蓝\Desktop\作业文件\Python交叉学科\Level4_5\snake2.png" style="zoom:50%;" />
+<img src="img/snake2.png" style="zoom:50%;" />
 
 ### 4.2 2048 游戏展示
 
@@ -295,6 +297,7 @@ python 2048.py
 游戏进行以及游戏结束：
 
 <center class="half">
-    <img src="C:\Users\蓝\Desktop\作业文件\Python交叉学科\Level4_5\2048.png" style="zoom:35%;"/>
-	<img src="C:\Users\蓝\Desktop\作业文件\Python交叉学科\Level4_5\2048over.png" style="zoom:35%;"/>
+    <img src="img/2048.png" style="zoom:35%;"/>
+	<img src="img/2048over.png" style="zoom:35%;"/>
 </center>
+

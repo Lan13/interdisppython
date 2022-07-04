@@ -12,7 +12,7 @@ Level 2.13 基于 Python，使用浏览器引擎 Selenium 爬取科大首页中�
 
 通过 XPATH 的方式定位到我们所需要的元素位置，然后获取文本信息即可。通过仅两个月数10次的观察，发现科大主页的新闻元素布局的 XPATH 是不变的。所以通过审查页面元素，我们可以定位获取到相关内容或链接的 XPATH。最后通过点击链接或者获取元素的文本信息即可完成要求。
 
-![](C:\Users\蓝\Desktop\作业文件\Python交叉学科\Level2\xptah.png)
+![](img/xptah.png)
 
 ## 3. 实验代码
 
@@ -52,12 +52,12 @@ python level2.py
 
 6 月 25 日运行测试：
 
-![](C:\Users\蓝\Desktop\作业文件\Python交叉学科\Level2\June25.png)
+![](img/June25.png)
 
 6 月 29 日运行测试：
 
-![](C:\Users\蓝\Desktop\作业文件\Python交叉学科\Level2\June29.png)
+![](img/June29.png)
 
 7 月 1 日运行测试：
 
-![](C:\Users\蓝\Desktop\作业文件\Python交叉学科\Level2\July1.png)
+![](img/July1.png)
