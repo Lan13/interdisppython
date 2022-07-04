@@ -1,0 +1,6 @@
+host = '127.0.0.1'
+port = 6666
+DEBUG = False
+COOPERATE_WIN = 1
+OPPO_LEAVE = 2
+HEADER_SIZE = 4
